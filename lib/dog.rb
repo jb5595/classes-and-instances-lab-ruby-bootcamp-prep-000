@@ -1,7 +1,7 @@
 class dog 
 end 
 
-fido = dog.new
-snoopy = dog.new
+var fido = dog.new
+var snoopy = dog.new
 lassie = dog.new
 
